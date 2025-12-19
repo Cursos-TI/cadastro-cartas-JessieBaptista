@@ -72,8 +72,8 @@ printf("\nCarta 2\n");
 printf("Estado: %c\n", estado2);
 printf("Codigo: %s\n", codigo2);
 printf("Populacao: %d\n", populacao2);
-printf("Area? %f Km2\n", area2);
-printf("PIB: %f\n", pib2);
+printf("Area: %.2f Km2\n", area2);
+printf("PIB: %.2f\n", pib2);
 printf("Pontos Turisticos: %d\n", pontos2);
 
 return 0;
